@@ -1,5 +1,5 @@
 {
-  "name": "Typechain",
+  "name": "typechain",
   "version": "1.0.0",
   "main": "index.js",
   "description": "Learning Typescript by making a Blockchain with it",
